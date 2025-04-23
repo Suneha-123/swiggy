@@ -8,3 +8,4 @@ def biryani(request):
 
 def icecream(request):
     return HttpResponse("i really love to eat ice creams")
+
